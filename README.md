@@ -7,8 +7,8 @@
 
 ## 🚀 Open Source Contributions
 
-- 📦 [OpenFaaS CLI – Enhanced Installation Docs](https://github.com/openfaas/faas-cli/pulls?q=is%3Apr+author%3Adavidmano)
-- 💡 [ci-cd/github-actions-flask-deploy](https://github.com/tungbq/devops-project/pulls?q=is%3Apr+author%3Adavidmano)
+- 📦 [OpenFaaS CLI – Enhanced Installation Docs](https://github.com/openfaas/faas-cli/pulls?q=is%3Apr+author%3Adavmano)
+- 💡 [ci-cd/github-actions-flask-deploy](https://github.com/tungbq/devops-project/pulls?q=is%3Apr+author%3Adavmano)
 
 ---
 
