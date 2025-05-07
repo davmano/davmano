@@ -1,16 +1,18 @@
-## Hi there 👋
 
-<!--
-**davmano/davmano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm David Mano
 
-Here are some ideas to get you started:
+🎯 DevOps Engineer | Open Source Contributor | Cloud & Automation Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Few Open Source Contributions
+
+- 📦 [OpenFaaS CLI – Enhanced Installation Docs](https://github.com/openfaas/faas-cli/pulls?q=is%3Apr+author%3Adavidmano)
+- 💡 [ci-cd/github-actions-flask-deploy](https://github.com/tungbq/devops-project/pulls?q=is%3Apr+author%3Adavidmano)
+
+---
+
+## 🛠️ Tech Stack
+- ☁️ AWS, Terraform, Docker, Kubernetes
+- 🔧 Linux, GitHub Actions, Ansible
+- 🧪 Flask, Python, Bash scripting
