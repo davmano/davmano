@@ -7,10 +7,14 @@
 ---
 
 ## 🧑‍💻 About Me
+I’m a passionate and driven DevOps Engineer with a hands-on approach to building modern, scalable, and reliable infrastructure. My journey began with a solid foundation in linux, AWS, and Terraform, and I’ve expanded my skills into CI/CD pipelines, Kubernetes orchestration, containerization, and monitoring systems.
 
-🔧 DevOps Engineer passionate about automating workflows and building scalable cloud-native systems.  
-🚀 Obsessed with Kubernetes, CI/CD pipelines, and Infrastructure as Code.  
-🛠 Currently working on real-world DevOps projects with tools like Helm, ArgoCD, and Kind.
+I believe in learning by doing. Every project in my GitHub reflects real-world use cases and problem-solving scenarios that I've personally built, tested, and refined in my home labs environment.
+
+Beyond DevOps, I also serve as a Music Director, leading and organizing music teams to deliver excellence — a role that has sharpened my leadership, teamwork, and execution under pressure.
+
+🔧 I enjoy breaking down complex systems into simple, automated, and repeatable solutions.
+🎯 My mission is to master DevOps, build impactful systems, and grow into a top-tier engineer that brings value, leadership, and innovation to every team I join.
 
 ---
 
